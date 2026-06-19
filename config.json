@@ -1,0 +1,36 @@
+{
+  "sec_user_agent": "AIHardwareMonitor/0.1 contact=research@example.com",
+  "companies": [
+    {"ticker": "MSFT", "name": "Microsoft", "cik": "0000789019", "group": "云厂商"},
+    {"ticker": "AMZN", "name": "Amazon", "cik": "0001018724", "group": "云厂商"},
+    {"ticker": "GOOGL", "name": "Alphabet", "cik": "0001652044", "group": "云厂商"},
+    {"ticker": "META", "name": "Meta", "cik": "0001326801", "group": "云厂商"},
+    {"ticker": "ORCL", "name": "Oracle", "cik": "0001341439", "group": "云厂商"},
+    {"ticker": "CRWV", "name": "CoreWeave", "cik": "0001769628", "group": "云厂商"},
+    {"ticker": "NVDA", "name": "NVIDIA", "cik": "0001045810", "group": "芯片"},
+    {"ticker": "AMD", "name": "AMD", "cik": "0000002488", "group": "芯片"},
+    {"ticker": "AVGO", "name": "Broadcom", "cik": "0001730168", "group": "芯片"},
+    {"ticker": "MRVL", "name": "Marvell", "cik": "0001835632", "group": "芯片"},
+    {"ticker": "MU", "name": "Micron", "cik": "0000723125", "group": "存储"},
+    {"ticker": "AMKR", "name": "Amkor", "cik": "0001047127", "group": "制造封装"},
+    {"ticker": "ANET", "name": "Arista Networks", "cik": "0001596532", "group": "网络光通信"},
+    {"ticker": "COHR", "name": "Coherent", "cik": "0000820318", "group": "网络光通信"},
+    {"ticker": "LITE", "name": "Lumentum", "cik": "0001633978", "group": "网络光通信"},
+    {"ticker": "FN", "name": "Fabrinet", "cik": "0001408710", "group": "网络光通信"},
+    {"ticker": "AAOI", "name": "Applied Optoelectronics", "cik": "0001158114", "group": "网络光通信"},
+    {"ticker": "DELL", "name": "Dell", "cik": "0001571996", "group": "服务器电力"},
+    {"ticker": "SMCI", "name": "Super Micro Computer", "cik": "0001375365", "group": "服务器电力"},
+    {"ticker": "VRT", "name": "Vertiv", "cik": "0001674101", "group": "服务器电力"},
+    {"ticker": "ETN", "name": "Eaton", "cik": "0001551182", "group": "服务器电力"}
+  ],
+  "official_pages": [
+    {"name": "TSMC月度收入", "url": "https://investor.tsmc.com/english/monthly-revenue"},
+    {"name": "Microsoft季度业绩", "url": "https://www.microsoft.com/en-us/Investor/earnings/"},
+    {"name": "Amazon季度业绩", "url": "https://ir.aboutamazon.com/quarterly-results/default.aspx"},
+    {"name": "Alphabet投资者关系", "url": "https://abc.xyz/investor/"},
+    {"name": "Meta季度业绩", "url": "https://investor.atmeta.com/"},
+    {"name": "NVIDIA季度业绩", "url": "https://investor.nvidia.com/financial-info/quarterly-results/default.aspx"},
+    {"name": "Micron季度业绩", "url": "https://investors.micron.com/quarterly-results"}
+  ]
+}
+

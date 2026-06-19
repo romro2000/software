@@ -1,0 +1,14 @@
+{
+  "name": "AI硬件周期监控",
+  "short_name": "AI周期监控",
+  "description": "跟踪云厂商资本开支和AI硬件供应链信号",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#172033",
+  "icons": [
+    {"src": "./icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable"},
+    {"src": "./icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
